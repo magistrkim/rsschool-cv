@@ -15,11 +15,11 @@ charisma to foster strong working relationships
 ***
 ## PET-PROJECTS
  
-  * [RoyalEstateApp](https://r-estate.onrender.com/)
-  * [Nike](https://magistrkim.github.io/nike/)
-  * [ThreadsCloneApp](https://threads-next-pi.vercel.app/)
-  * [ContactsApp](https://magistrkim.github.io/goit-react-hw-09-phonebook/)
-  * [CarRentalApp](https://magistrkim.github.io/car-rent-app/)
+  * [RoyalEstateApp](https://r-estate.onrender.com/) - Real Estate Platform
+  * [Nike](https://magistrkim.github.io/nike/) - Nike website
+  * [ThreadsCloneApp](https://threads-next-pi.vercel.app/) - Threads Social Media
+  * [ContactsApp](https://magistrkim.github.io/goit-react-hw-09-phonebook/) - Contacts App
+  * [CarRentalApp](https://magistrkim.github.io/car-rent-app/) - Car Rental Platform
 
 
 ***
